@@ -1,0 +1,8 @@
+<h2><a href="javascript:document.write`
+  <div>
+    <form method='GET' action='https://nccgroup.com'>
+      <input type='submit' value='NCC Group'>
+    </form>
+    <script>alert(document.domain)</script>
+  </div>
+`">Click me</a></h2>
